@@ -20,4 +20,3 @@
 [twitter]: https://twitter.com/hopy16275398
 [instagram]: https://www.instagram.com/unicorn.pattern/
 [linkedin]: https://www.linkedin.com/in/opeyemi-kadir-289887283/
-
